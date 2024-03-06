@@ -6,3 +6,5 @@ Requires Open API, Serper API and Browserless API
 Run by first installing streamlit through "pip install streamlit"
 
 Then type "streamlit run app.py"
+
+![image](https://github.com/ayeshkadike/AI-Research-Agent/assets/146994029/85366a31-03ba-412c-9ff3-792cdde5fd6b)
